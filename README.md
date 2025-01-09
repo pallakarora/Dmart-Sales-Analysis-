@@ -46,3 +46,17 @@ The project incorporates the following visualization techniques:
 - Count plots for categorical data.
 - Correlation heatmaps to identify relationships between variables.
 - Box plots and scatter plots to analyze outliers and feature-target relationships.
+
+
+## Results and Insights
+
+- Identified significant predictors of sales such as `Item_MRP`, `Outlet_Size`, and `Item_Type`.
+- Outlier detection and removal improved the model's performance.
+- Encoding categorical features enhanced model interpretability and efficiency.
+
+## Future Scope
+
+- Implement advanced machine learning algorithms for better predictive accuracy.
+- Explore additional features and external datasets for comprehensive analysis.
+- Develop a dashboard for real-time sales prediction and visualization.
+
